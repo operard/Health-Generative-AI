@@ -12,3 +12,9 @@
 ```code
 python3 generativeaidemo.py
 ```
+
+
+
+## Results in PyVharm
+
+![]()
