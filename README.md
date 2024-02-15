@@ -54,6 +54,8 @@ ___
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
+![Configuration](./images/icon256.png)
+
 <!-- Github Markdown -->
 
 <!-- Code Blocks -->
