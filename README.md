@@ -54,7 +54,7 @@ ___
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-![Configuration](./images/icon256.png)
+![Configuration](https://github.com/operard/Health-Generative-AI/blob/main/images/05_IE_MBD_GITHUB_workshop_PERSO_DEV.png))
 
 <!-- Github Markdown -->
 
